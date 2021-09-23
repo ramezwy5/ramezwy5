@@ -1,0 +1,5 @@
+﻿Driver Name,Phone Number,Email,Date/Time,Trip ID,Type,Fare Base,Fare Distance,Fare Minimum Fare Supplement,Fare Time,Fare Wait Time At Pickup,Promotion Consecutive Trips,Expenses Instant Pay Fees,Expenses Optional Insurance,Total
+"Ramez Youssef","","ramezwyoussef@gmail.com","Wednesday, September 20, 2017 8:37 AM","ec3df6e0-5954-4c3f-be37-bcbd836c8b52","uberX","$0.84","$0.65","$1.30","$1.17","","","","-$0.03","$3.93"
+"Ramez Youssef","","ramezwyoussef@gmail.com","Wednesday, September 20, 2017 8:50 AM","b8732311-b93d-46d6-9caa-9bd1c2ca1232","uberX","$0.84","$2.39","","$2.40","","","","-$0.12","$5.51"
+"Ramez Youssef","","ramezwyoussef@gmail.com","Wednesday, September 20, 2017 9:45 AM","e4db9ef4-9eb7-4563-a4a3-68c2be615260","uberX VIP","$0.84","$0.91","$1.27","$0.94","","$9.50","","-$0.05","$13.41"
+"Ramez Youssef","","ramezwyoussef@gmail.com","Wednesday, September 20, 2017 10:08 AM","d071132c-98b8-40dc-807e-2b2ead1ca03d","uberX","$0.84","$0.49","$1.93","$0.70","$0.16","","","-$0.02","$4.10"
