@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ramezwy5
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+-    I have learned HTML, CSS, JS.
+- 🌱 I’m currently learning  BootStrap, Sass, JQuery.
+- 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me ramez4fx@gmail.com
 
 <!---
