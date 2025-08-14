@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ramezwy5
+- 👋 Hi, I’m @Kaaper
 - 👀 I’m interested in Web development
-- 🏁 I have learned HTML, CSS, JS.
-- 🌱 I’m currently learning  BootStrap, Sass, JQuery.
-- 💞️ I’m looking to collaborate on web developing.
-- 📫 How to reach me ramez4fx@gmail.com.
+- 🏁 I have learned HTML, CSS, and JS.
+- 🌱 I’m currently learning  TailwindCSS, ReactJS, and WordPress.
+- 💞️ I’m looking to collaborate on web development.
+- 📫 How to reach me: ramez4fx@gmail.com.
 - 🌎  Visit my page https://ramez-portfolio.netlify.app/
 
 <!---
